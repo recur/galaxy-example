@@ -2,3 +2,5 @@
   tasks:
   - include_role:
       name: jojomomojo.galaxy_example
+  - include_role:
+      name: ex
